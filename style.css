@@ -1,0 +1,22 @@
+body{
+    font-family: 'Abel', sans-serif;	
+    font-size: 1.5em;
+    background: #f8f9fa;
+    color: #4E5860;
+}
+
+p{
+	background: #fff;
+	border:1px solid #ECEFF0;
+	padding:5px;
+}
+
+::selection{
+	background: #8A8A8A;
+	color: #fff;
+}
+
+.highlight{
+	background: #8A8A8A;
+	color: #fff;
+}
