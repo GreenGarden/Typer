@@ -11,12 +11,11 @@ section p{
 	padding:5px;
 }
 
-::selection{
+.highlight{
 	background: #8A8A8A;
 	color: #fff;
 }
 
-.highlight{
-	background: #8A8A8A;
-	color: #fff;
+.link{
+	float:right;
 }
