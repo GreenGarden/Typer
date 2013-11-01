@@ -1,4 +1,4 @@
 Typer
 =====
 
-Demo can be found athttp://greengarden.github.io/Typer.
+Demo can be found <a href="http://greengarden.github.io/Typer">here</a>
